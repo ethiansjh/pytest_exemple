@@ -1,7 +1,7 @@
 import math
 
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt  # type: ignore
 
-from exercice.src.mymodule.math import exponential
+from src.mymodule.math import exponential
 
 print("Hello World")

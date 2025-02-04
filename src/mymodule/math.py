@@ -1,3 +1,6 @@
+""" Module providing a function math """
+
+
 def exponential(x, n):
     return x**n
 
