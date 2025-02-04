@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+.python-version
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+__pycache__/
+
+# C extensions
+.DS_Store
+
+# Virtualenv
+data/
+
+# Credentials
+credentials.json

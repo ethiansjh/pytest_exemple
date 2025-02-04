@@ -1,0 +1,13 @@
+# CICD
+exceptiongroup==1.2.2
+    # via pytest
+iniconfig==2.0.0
+    # via pytest
+packaging==24.2
+    # via pytest
+pluggy==1.5.0
+    # via pytest
+pytest==8.3.4
+    # via -r requirements.in
+tomli==2.2.1
+    # via pytest
